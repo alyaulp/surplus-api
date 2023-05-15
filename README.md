@@ -1,9 +1,21 @@
-# Getting started with REST API testing with Serenity and Cucumber 6
+# Surplus API Testing
 
-This is a simple starter project for Serenity with Cucumber 6 and RestAssured
+This project is for test phase in Surplus Indonesia
 
-## Want to learn more?
-For more information about Serenity BDD, you can read the [**Serenity BDD Book**](https://serenity-bdd.github.io/theserenitybook/latest/index.html), the official online Serenity documentation source. Other sources include:
-* **[Byte-sized Serenity BDD](https://www.youtube.com/channel/UCav6-dPEUiLbnu-rgpy7_bw/featured)** - tips and tricks about Serenity BDD
-* [**Serenity BDD Blog**](https://johnfergusonsmart.com/category/serenity-bdd/) - regular articles about Serenity BDD
-* [**The Serenity Dojo**](https://www.serenity-dojo.com) - Tailored BDD and Test Automation Training and Mentoring
+## Installation
+
+1. Clone the repository: `git@github.com:alyaulp/surplus-api-testing.git`
+
+## Usage
+
+1. Run the application: `mvn clean verify test`
+
+## Contributing
+
+1. Fork the repository
+2. Make your changes
+3. Submit a pull request
+
+## Contact
+
+For questions or feedback, please contact [Alia Ulfah]([https://www.linkedin.com/in/your-profile-url/](https://www.linkedin.com/in/alia-ulfah-b50025221/)) on LinkedIn.
