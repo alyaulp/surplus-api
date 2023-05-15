@@ -11,12 +11,8 @@ import java.util.HashMap;
 import java.util.Map;
 
 public class SurplusAPI {
-
-
-    public static  String TOKEN = "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MTYsInJvbGUiOiJ1c2VyIiwiZXhwIjoxNjgwMzI3NTgxfQ.2q0YIN3lin8F-azBsCBrcBxWzAPDyHcO9SqoF45hKuE";
     public static  String API_SURPLUS = ConstantSurplus.BASE_URL;
 
-    //SURPLUS
     @Step("Get list All")
     public void getListAll() {
         SerenityRest.given();
