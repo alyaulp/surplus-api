@@ -18,4 +18,4 @@ This project is for test phase in Surplus Indonesia
 
 ## Contact
 
-For questions or feedback, please contact [Alia Ulfah]([https://www.linkedin.com/in/your-profile-url/](https://www.linkedin.com/in/alia-ulfah-b50025221/)) on LinkedIn.
+For questions or feedback, please contact [Alia Ulfah](https://linkedin.com/in/your-profile-url) on LinkedIn.
