@@ -6,7 +6,7 @@ import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
 import io.restassured.module.jsv.JsonSchemaValidator;
 import net.serenitybdd.rest.SerenityRest;
-import net.thucydides.core.annotations.Steps;
+import net.serenitybdd.annotations.Steps;
 import starter.Surplus.SurplusAPI;
 import starter.Surplus.Utils.ConstantSurplus;
 
@@ -19,7 +19,7 @@ public class PostSurplusStepdefs {
     //Post create new with request body
     @Given("Post create new with request body")
     public void postCreateNewWithRequestBody() {
-        File jsonReq = new File(ConstantSurplus.JSON_REQ_BODY_POST + "PostSurplusReqBody.json");
+        File jsonReq = new File(ConstantSurplus.JSON_REQ_BODY_POST_CONT + "PostSurplusReqBody.json");
         surplusAPI.setPostCreateNewWithRequestBody(jsonReq);
     }
 
